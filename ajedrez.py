@@ -96,7 +96,7 @@ while restar ==1:
 print("")
 print("Gracias")
 
-
+loquitas
 
 
 
